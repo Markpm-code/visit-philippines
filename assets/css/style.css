@@ -98,10 +98,9 @@ a {
 }
 
 .containers {
-    justify-content: space-between;
-    align-items: center;
     line-height: 200px;
-    display: inline;
+    display: inline-block;
+    
 }
 .containers h2 {
     font-family: cursive, sans-serif;
