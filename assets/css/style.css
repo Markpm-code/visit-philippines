@@ -102,15 +102,16 @@ a {
     max-height: 400px;
     background-color: white;
     width: 300px;
-    bottom: 0;
     text-align: center;
     margin: 15px 30px;
     opacity: 0.7;
     border: 2px solid rgba(0, 136, 169, 1);
+    
 }
 .containers h2 {
     font-family: cursive, sans-serif;
     color: blue;
+    
 }
 .containers img {
     width: 100%;
