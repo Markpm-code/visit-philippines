@@ -14,15 +14,13 @@ body {
 
 #logo {
     font-family: Abril Fatface, cursive;
-    font-weight: 500;
-    letter-spacing: 4.5px;
+    letter-spacing: 3.5px;
     font-size: 60px;
     width:100%;
     text-align: center;
+    margin-top: 10px;
 
-    
-
-}
+    }
 
 #logo:hover {
     color: white;
@@ -42,8 +40,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 35px 10%;
-    background-color: white;
-    line-height: 40px;
+    background-color:#FFFFFF;
     
 }
 
@@ -73,7 +70,7 @@ a {
 
 .nav-links li, a:hover {
     padding: 5px 10px;
-    color: white;
+    color: #FFFFFF;
     background-color: rgba(0, 136, 169, 1);
     border: none;
     border-radius: 40px;
@@ -89,7 +86,7 @@ a {
 .containers  div{
     display: block;
     max-height: 400px;
-    background-color: white;
+    background-color: #FFFFFF;
     width: 300px;
     text-align: center;
     margin: 15px 30px;
@@ -99,7 +96,7 @@ a {
 }
 .containers h2 {
     font-family: cursive, sans-serif;
-    color: blue;
+    color: #433bdb;
     
 }
 .containers img {
@@ -107,13 +104,13 @@ a {
     height: 100%;
 }
  div a {
-    color: blue;
+    color: #433bdb;
 }
 div a:hover {
     padding: 0;
     border: 0;
     background-color: transparent;
-    color: blue;
+    color: #433bdb;
     text-decoration: underline; 
     
     
