@@ -115,3 +115,23 @@ div a:hover {
     
     
 }
+footer {
+    background-color:#FFFFFF;
+    width: 100%;
+    height: 80px;
+    bottom: 0;
+    text-align: center; 
+    
+}
+.social-networks li {
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 40px;
+}
+
+
+
+
+    
+    
+    
