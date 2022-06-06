@@ -128,7 +128,23 @@ footer {
     line-height: 70px;
     margin: 0 40px;
 }
+/*gallery*/
 
+#photos{
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+    overflow: hidden;
+    margin-bottom: 0;
+    border: 2px solid white;
+} 
+
+#photos > img {
+    width: 100%;
+    height: 20%;
+    border: 1px solid #554fc2;;
+}
 
 
 
