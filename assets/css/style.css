@@ -123,6 +123,9 @@ a {
 div a:hover {
     padding: 0;
     border: 0;
-    background-color: none;
+    background-color: transparent;
+    color: blue;
+    text-decoration: underline; 
+    
     
 }
