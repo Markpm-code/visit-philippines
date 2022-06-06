@@ -25,9 +25,7 @@ body {
 }
 
 .home {
-    background-image: url("https://www.worldatlas.com/r/w1200/upload/90/7f/d6/shutterstock-329818472.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url("../images/main-image.webp") no repeat center center;
 
 }
 
