@@ -129,6 +129,26 @@ footer {
     margin: 0 40px;
 }
 /*gallery*/
+.gallery {
+    background-color:aqua;
+    border-top: 2px solid rgba(0, 136, 169, 1);
+    border-left: 2px solid rgba(0, 136, 169, 1);
+    border-right: 2px solid rgba(0, 136, 169, 1);
+    
+}
+
+.gallery h1, p {
+    text-align: center;
+
+}
+.gallery h1 {
+    font-size: 60px;
+    font-weight: 100;
+}
+.gallery p {
+    font-size: larger;
+    font-family: cursive, sans-serif;
+}
 
 #photos{
     clear: both;
@@ -137,14 +157,15 @@ footer {
     column-gap: 0px;
     overflow: hidden;
     margin-bottom: 0;
-    border: 2px solid white;
+    border: 2px solid rgba(0, 136, 169, 1);
 } 
 
 #photos > img {
     width: 100%;
-    height: 20%;
-    border: 1px solid #554fc2;;
+    height: 300px;
+    border: 1px solid #FFFFFF;
 }
+
 
 
 
