@@ -17,26 +17,26 @@ body {
     letter-spacing: 3.5px;
     font-size: 60px;
     font-weight: 200;
-    width:100%;
+    width: 100%;
     text-align: center;
     margin: auto;
-    background-color:  rgba(0, 136, 169, 1);
+    background-color: rgba(0, 136, 169, 1);
     color: #FFFFFF;
-    border-radius:  40px;
+    border-radius: 40px;
     padding: 2px;
-    }
+}
 
 #logo:hover {
     color: #24252A;
-    
+
 }
 
 #main-image {
-    background: url("../images/main-image.webp") no-repeat center center ;
+    background: url("../images/main-image.webp") no-repeat center center;
     background-size: cover;
     height: 100%;
     width: 100%;
-    
+
 }
 
 header {
@@ -44,8 +44,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 35px 10%;
-    background-color:#FFFFFF;
-    
+    background-color: #FFFFFF;
+
 }
 
 .nav-links li {
@@ -72,7 +72,8 @@ a {
     text-decoration: none;
 }
 
-.nav-links li, a:hover {
+.nav-links li,
+a:hover {
     padding: 5px 10px;
     color: #FFFFFF;
     background-color: rgba(0, 136, 169, 1);
@@ -87,7 +88,7 @@ a {
     margin: 20px 40px;
 }
 
-.containers  div{
+.containers div {
     display: block;
     max-height: 400px;
     background-color: #FFFFFF;
@@ -97,69 +98,80 @@ a {
     opacity: 0.8;
     border: 2px solid rgba(0, 136, 169, 1);
     border-radius: 6px;
-    
+
 }
+
 .containers h2 {
     font-family: cursive, sans-serif;
     color: #433bdb;
-    
+
 }
+
 .containers img {
     width: 100%;
     height: 100%;
 }
- div a {
+
+div a {
     color: #433bdb;
 }
+
 div a:hover {
     padding: 0;
     border: 0;
     background-color: transparent;
     color: #433bdb;
-    text-decoration: underline; 
-    
-    
+    text-decoration: underline;
+
+
 }
+
 footer {
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
     width: 100%;
     height: 80px;
     bottom: 0;
-    text-align: center; 
+    text-align: center;
     z-index: 1;
 }
+
 .social-networks li {
     display: inline-block;
     line-height: 70px;
     margin: 0 40px;
 }
+
 .social-networks a {
     color: rgba(0, 136, 169, 1);
 }
+
 /*gallery*/
 .gallery {
-    background-color:aqua;
+    background-color: aqua;
     border-top: 2px solid rgba(0, 136, 169, 1);
     border-left: 2px solid rgba(0, 136, 169, 1);
     border-right: 2px solid rgba(0, 136, 169, 1);
     border-radius: 10px;
-    
+
 }
 
-.gallery h1, p {
+.gallery h1,
+p {
     text-align: center;
 
 }
+
 .gallery h1 {
     font-size: 60px;
     font-weight: 100;
 }
+
 .gallery p {
     font-size: larger;
     font-family: cursive, sans-serif;
 }
 
-#photos{
+#photos {
     clear: both;
     line-height: 0;
     column-count: 3;
@@ -168,14 +180,15 @@ footer {
     margin-bottom: 0;
     border: 2px solid rgba(0, 136, 169, 1);
     border-radius: 10px;
-} 
+}
 
-#photos > img {
+#photos>img {
     width: 100%;
     height: 300px;
     border: 1px solid #FFFFFF;
     border-radius: 5px;
 }
+
 /*tourist attractions*/
 #attract {
     text-align: center;
@@ -187,54 +200,60 @@ footer {
 
 #tourist {
     width: 60%;
-    height:auto;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 
 .attractions img {
-    width:90%;
-    height:400px;
-    display:block;
+    width: 90%;
+    height: 400px;
+    display: block;
     border: 2px solid rgba(0, 136, 169, 1);
     border-radius: 10px;
 }
-    
+
 .attractions p {
-    width:90%;
+    width: 90%;
     font-family: cursive, sans-serif;
     font-size: large;
     text-align: justify;
     margin-bottom: 30px;
 }
+
 .attractions h2 {
     margin: 20px 0;
     font-weight: 200;
-    
-}/*sign-up*/
+
+}
+
+/*sign-up*/
 .img-sign-up {
-    background: url("../images/boracay-sand-castle.jpg") no-repeat center center ;
+    background: url("../images/boracay-sand-castle.jpg") no-repeat center center;
     background-size: cover;
     height: 100%;
 }
+
 .sign-up {
-    width:20%;
-    height:720px;
+    width: 20%;
+    height: 720px;
     margin-left: 30px;
-   
+
 }
+
 .sign-up h1 {
     text-align: center;
     font-size: 60px;
     color: rgba(0, 136, 169, 1);
-    width:100%;
+    width: 100%;
     margin: 40px 0;
 }
+
 .sign-up-form {
     width: 100%;
     color: black;
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
     max-width: 500px;
     position: absolute;
     padding: 20px;
@@ -243,52 +262,58 @@ footer {
     height: 50%;
     opacity: 0.8;
 
-  }
-  .sign-up-form fieldset {
-      border: 1px solid rgba(0, 136, 169, 1);
-      border-radius: 20px;
-      margin: 40px 5px;
-  }
-  legend {
+}
+
+.sign-up-form fieldset {
+    border: 1px solid rgba(0, 136, 169, 1);
+    border-radius: 20px;
+    margin: 40px 5px;
+}
+
+legend {
     text-align: center;
     font-size: 25px;
     font-family: cursive, sans-serif;
-    color:rgba(0, 136, 169, 1);
-    
-  }
-    
-  input[type="text"], input[type="submit"] {
-    margin:20px;
+    color: rgba(0, 136, 169, 1);
+
+}
+
+input[type="text"],
+input[type="submit"] {
+    margin: 20px;
     width: 90%;
     height: 50px;
     opacity: 0.9;
-    border:  2px solid skyblue;
+    border: 2px solid skyblue;
     font-family: Montserrat;
     border-radius: 15px;
-  }
-  .text-input:hover {
+}
+
+.text-input:hover {
     background-color: rgba(70, 103, 132, 0.27);
     transition: all 0.3s ease 0s;
-  }
-  .submit:hover {
-    background-color:rgba(70, 103, 132, 0.27);
+}
+
+.submit:hover {
+    background-color: rgba(70, 103, 132, 0.27);
     transition: all 0.3s ease 0s;
-  }
-  label {
-    margin-left:10px;
-  }
-  fieldset {
+}
+
+label {
+    margin-left: 10px;
+}
+
+fieldset {
     border: 2px solid white;
-  }
-  
-  .sign-up-header {
+}
+
+.sign-up-header {
     font-family: Montserrat;
     background-color: white;
     max-width: 300px;
     padding: 5px;
-    margin: 50px 0 0 210px ;
-  
+    margin: 50px 0 0 210px;
+
     border-radius: 40px;
     text-align: center;
 }
-  
