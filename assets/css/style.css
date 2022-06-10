@@ -129,6 +129,9 @@ footer {
     line-height: 70px;
     margin: 0 40px;
 }
+.social-networks a {
+    color: rgba(0, 136, 169, 1);
+}
 /*gallery*/
 .gallery {
     background-color:aqua;
