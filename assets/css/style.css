@@ -208,12 +208,9 @@ footer {
     margin: 20px 0;
     font-weight: 200;
     
+}/*sign-up*/
+.img-sign-up {
+    background: url("../images/boracay-sand-castle.jpg") no-repeat center center ;
+    background-size: cover;
+    height: 100%;
 }
-
-
-
-
-
-    
-    
-    
