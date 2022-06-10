@@ -7,13 +7,13 @@
 }
 
 body {
-    font-family: Abril Fatface, cursive;
+    font-family: 'Abril Fatface', cursive;
     font-weight: 400;
     color: #24252A;
 }
 
 #logo {
-    font-family: Abril Fatface, cursive;
+    font-family: 'Abril Fatface', cursive;
     letter-spacing: 3.5px;
     font-size: 60px;
     font-weight: 200;
