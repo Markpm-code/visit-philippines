@@ -218,3 +218,76 @@ footer {
     background-size: cover;
     height: 100%;
 }
+.sign-up {
+    width:35%;
+    height:700px;
+    margin: 40px auto 40px 50px;
+   
+}
+.sign-up h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgba(0, 136, 169, 1);
+    width:100%;
+    margin: 40px 0;
+}
+.sign-up-form {
+    width: 100%;
+    color: black;
+    background-color:#FFFFFF;
+    max-width: 500px;
+    position: absolute;
+    left: 10%;
+    padding: 20px;
+    border: none;
+    border-radius: 25px;
+    height: 50%;
+
+  }
+  .sign-up-form fieldset {
+      border: 1px solid rgba(0, 136, 169, 1);
+      border-radius: 20px;
+      margin: 20px;
+  }
+  legend {
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive, sans-serif;
+    color:rgba(0, 136, 169, 1);
+    
+  }
+    
+  input[type="text"], input[type="submit"] {
+    margin:20px;
+    width: 90%;
+    height: 50px;
+    opacity: 0.9;
+    border:  2px solid skyblue;
+    font-family: Montserrat;
+    border-radius: 15px;
+  }
+  .text-input:hover {
+    background-color: rgba(70, 103, 132, 0.27);
+    transition: all 0.3s ease 0s;
+  }
+  .submit:hover {
+    background-color:rgba(70, 103, 132, 0.27);
+    transition: all 0.3s ease 0s;
+  }
+  label {
+    margin-left:10px;
+  }
+  fieldset {
+    border: 2px solid white;
+  }
+  
+  .sign-up-header {
+    font-family: Montserrat;
+    background-color: white;
+    max-width: 300px;
+    padding: 5px;
+    margin: 50px 0 0 210px ;
+  
+    border-radius: 40px;
+    text-align: center;
+  
