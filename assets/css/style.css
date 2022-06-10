@@ -126,7 +126,7 @@ footer {
     height: 80px;
     bottom: 0;
     text-align: center; 
-    
+    z-inedx: 1;
 }
 .social-networks li {
     display: inline-block;
@@ -219,14 +219,14 @@ footer {
     height: 100%;
 }
 .sign-up {
-    width:35%;
-    height:700px;
-    margin: 40px auto 40px 50px;
+    width:20%;
+    height:720px;
+    margin-left: 30px;
    
 }
 .sign-up h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     color: rgba(0, 136, 169, 1);
     width:100%;
     margin: 40px 0;
@@ -237,17 +237,17 @@ footer {
     background-color:#FFFFFF;
     max-width: 500px;
     position: absolute;
-    left: 10%;
     padding: 20px;
     border: none;
     border-radius: 25px;
     height: 50%;
+    opacity: 0.8;
 
   }
   .sign-up-form fieldset {
       border: 1px solid rgba(0, 136, 169, 1);
       border-radius: 20px;
-      margin: 20px;
+      margin: 40px 5px;
   }
   legend {
     text-align: center;
@@ -290,4 +290,5 @@ footer {
   
     border-radius: 40px;
     text-align: center;
+}
   
