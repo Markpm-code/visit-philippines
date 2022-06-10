@@ -126,7 +126,7 @@ footer {
     height: 80px;
     bottom: 0;
     text-align: center; 
-    z-inedx: 1;
+    z-index: 1;
 }
 .social-networks li {
     display: inline-block;
