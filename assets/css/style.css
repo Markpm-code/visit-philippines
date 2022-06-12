@@ -252,14 +252,14 @@ p {
     font-size: 60px;
     color: rgba(0, 136, 169, 1);
     width: 100%;
-    margin: 40px 0;
+    margin: auto;
 }
 
 .sign-up-form {
-    width: 100%;
+    
     color: black;
     background-color: #FFFFFF;
-    max-width: 500px;
+    width: 500px;
     position: absolute;
     padding: 20px;
     border: none;
@@ -290,7 +290,7 @@ input[type="submit"] {
     height: 50px;
     opacity: 0.9;
     border: 2px solid skyblue;
-    font-family: Montserrat;
+    font-family: cursive, sans-serif;
     border-radius: 15px;
 }
 
@@ -311,4 +311,50 @@ label {
 fieldset {
     border: 2px solid white;
 }
+@media screen  and (max-width: 600px){
+    .sign-up{
+        width:100%;
+        height: 600px;
+        margin-left: 5px;
+    }
+    .sign-up h1 {
+        font-size: 40px;
+        width:100%;
+        margin-top: 0;
+    }
+    .sign-up-form{
+        height:50%;
+        width: 70%;
+        margin-left: 20px;
+    }
+    #logo{
+        font-size: 40px;
+        letter-spacing: normal;
+    }
+     li, a {
+         font-size: 20px;
+        
+     }
+     footer{
+         height: 200px;
+         width: 100%;
+         text-align: justify;
+     }
+     .social-networks h2{
+         font-size: 15px;
+     }
+     .attractions img {
+         height: 200px;
+     }
+     #attract{
+         font-size: 40px;
+     }
+     .page-intro {
+         text-align: justify;
+     }
+    #photos {
+        column-count: 2;
+    }
+}
+    
 
