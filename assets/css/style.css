@@ -173,7 +173,7 @@ p {
 
 .gallery p {
     font-size: larger;
-    font-family: cursive, sans-serif;
+    font-family:'cursive', sans-serif;
 }
 
 #photos {
@@ -314,18 +314,19 @@ fieldset {
 @media screen  and (max-width: 600px){
     .sign-up{
         width:100%;
-        height: 600px;
-        margin-left: 5px;
+        height: 800px;
+        margin: 0;
     }
     .sign-up h1 {
         font-size: 40px;
         width:100%;
-        margin-top: 0;
+        margin: 10px 0;
     }
     .sign-up-form{
         height:60%;
-        width: 70%;
-        margin-left: 20px;
+        width: 100%;
+        margin:0;
+        padding: 0;
     }
     #logo{
         font-size: 40px;
@@ -357,6 +358,20 @@ fieldset {
     #photos {
         column-count: 2;
     }
+    .sign-up-form fieldset{
+        height:90%;
+        z-index:1;
+        margin: 20px;
+    }
+    .text-input:hover {
+        height: 40px;
+    }
+    input[type="text"],
+input[type="submit"]{
+    margin: 10px ;
+    
+}
+
 }
     
 
