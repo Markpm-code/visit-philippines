@@ -74,7 +74,7 @@ a {
 
 .nav-links li,
 a:hover {
-    padding: 5px 10px;
+    padding: 10px 10px;
     color: #FFFFFF;
     background-color: rgba(0, 136, 169, 1);
     border: none;
@@ -331,6 +331,14 @@ fieldset {
     #logo{
         font-size: 40px;
         letter-spacing: normal;
+        margin-left: -30px;
+        padding: 10px;
+    
+        
+    }
+    #logo:hover{
+        
+        
     }
      li, a {
          font-size: 20px;
@@ -370,6 +378,9 @@ fieldset {
 input[type="submit"]{
     margin: 10px ;
     
+}
+.containers div {
+    width:350px;
 }
 
 }
