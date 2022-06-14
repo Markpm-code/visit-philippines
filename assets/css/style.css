@@ -44,7 +44,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 35px 10%;
-    
+
 
 }
 
@@ -74,7 +74,7 @@ a {
 
 .nav-links li,
 a:hover {
-    padding: 10px 10px;
+    padding: 5px 10px;
     color: #FFFFFF;
     background-color: rgba(0, 136, 169, 1);
     border: none;
@@ -145,8 +145,9 @@ footer {
 .social-networks a {
     color: rgba(0, 136, 169, 1);
 }
+
 .social-networks h2 {
-    font-size:20px;
+    font-size: 20px;
     font-family: 'cursive', sans-serif
 }
 
@@ -173,7 +174,7 @@ p {
 
 .gallery p {
     font-size: larger;
-    font-family:'cursive', sans-serif;
+    font-family: 'cursive', sans-serif;
 }
 
 #photos {
@@ -256,7 +257,7 @@ p {
 }
 
 .sign-up-form {
-    
+
     color: black;
     background-color: #FFFFFF;
     width: 500px;
@@ -311,77 +312,88 @@ label {
 fieldset {
     border: 2px solid white;
 }
-@media screen  and (max-width: 600px){
-    .sign-up{
-        width:100%;
+
+@media screen and (max-width: 600px) {
+    .sign-up {
+        width: 100%;
         height: 800px;
         margin: 0;
     }
+
     .sign-up h1 {
         font-size: 40px;
-        width:100%;
+        width: 100%;
         margin: 10px 0;
     }
-    .sign-up-form{
-        height:60%;
+
+    .sign-up-form {
+        height: 60%;
         width: 100%;
-        margin:0;
+        margin: 0;
         padding: 0;
     }
-    #logo{
+
+    #logo {
         font-size: 40px;
         letter-spacing: normal;
         margin-left: -30px;
         padding: 10px;
-    
-        
+
     }
-    #logo:hover{
-        
-        
+
+    li,
+    a {
+        font-size: 20px;
+
     }
-     li, a {
-         font-size: 20px;
-        
-     }
-     footer{
-         height: 100px;
-         width: 100%;
-         text-align: center;
-         
-     }
-     .social-networks h2{
-         font-size: 20px;
-         
-     }
-     .attractions img {
-         height: 200px;
-     }
-     #attract{
-         font-size: 40px;
-     }
-     .page-intro {
-         text-align: justify;
-     }
+
+    footer {
+        height: 100px;
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .social-networks h2 {
+        font-size: 20px;
+
+    }
+
+    .attractions img {
+        height: 200px;
+    }
+
+    #attract {
+        font-size: 40px;
+    }
+
+    .page-intro {
+        text-align: justify;
+    }
+
     #photos {
         column-count: 2;
     }
-    .sign-up-form fieldset{
-        height:90%;
-        z-index:1;
+
+    .sign-up-form fieldset {
+        height: 90%;
+        z-index: 1;
         margin: 20px;
     }
+
     .text-input:hover {
         height: 40px;
     }
+
     input[type="text"],
-input[type="submit"]{
-    margin: 10px ;
-    
-}
-.containers div {
-    width:350px;
-}
+    input[type="submit"] {
+        margin: 10px;
+
+    }
+
+    .containers div {
+        width: 350px;
+    }
 
 }
     
