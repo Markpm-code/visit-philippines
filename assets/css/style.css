@@ -139,16 +139,17 @@ footer {
 .social-networks li {
     display: inline-block;
     line-height: 50px;
-    margin: 0 10px;
+    margin: 10px 20px;
 }
 
 .social-networks a {
     color: rgba(0, 136, 169, 1);
+    margin:30px;
 }
 
 .social-networks h2 {
     font-size: 20px;
-    font-family: 'cursive', sans-serif
+    font-family: 'cursive', sans-serif;
 }
 
 /*gallery*/
