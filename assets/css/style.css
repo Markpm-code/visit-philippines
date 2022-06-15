@@ -266,7 +266,7 @@ p {
     padding: 20px;
     border: none;
     border-radius: 25px;
-    height: 50%;
+    height: 70%;
     opacity: 0.8;
 
 }
@@ -404,13 +404,22 @@ fieldset {
     }
 
 }
-  @media screen and (max-width:1300px) and (min-width:750px){
+  @media screen and (max-width:1300px) and (min-width:600px){
       .nav-links li {
           margin-left: 20px;
       }
       footer {
           text-align: center;
       }
+      .sign-up-form {
+        height: 50%;
+        width: 50%;
+        margin: 0;
+        padding: 0;
+    }
+    .social-networks li {
+        display: inline;
+    }
       
       }
       @media screen and (min-width:1280px){
@@ -420,6 +429,34 @@ fieldset {
           .social-networks li a {
               margin: 0 5px;
           }
+        
+        
+    
+      }
+      @media screen and (min-width: 200px) and (max-width:320px){
+          #photos {
+              column-count: 1;
+              width:330px;
+              margin-left: 10px;
+          }
+          .gallery{
+              margin:5px 0 5px 10px;
+              width: 330px;
+
+              
+          }
+         .social-networks li {
+             margin: 0;
+             display: inline;
+             
+         }
+         .social-networks h2{
+             font-size: 15px;
+         }
+         footer {
+             width:110%;
+         }
+            
       }
   
   
