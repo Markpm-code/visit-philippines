@@ -408,6 +408,20 @@ fieldset {
       .nav-links li {
           margin-left: 20px;
       }
-  }
+      footer {
+          text-align: center;
+      }
+      
+      }
+      @media screen and (min-width:1280px){
+          footer{
+              text-align: center;
+          }
+          .social-networks li a {
+              margin: 0 5px;
+          }
+      }
+  
+  
       
 
