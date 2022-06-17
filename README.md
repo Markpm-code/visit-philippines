@@ -6,5 +6,5 @@ Aside from white sand beaches, Philippines has a lot of attractions for tourist 
 ![screenshot of am I responsive](assets/images/responsive%20to%20smaller%20devices.png)
 
 *Navigation Bar
-*.The navigation bar is full responsive featured in all four pages, it includes links to the logo which is the homepage, homepage,
+-The navigation bar is full responsive featured in all four pages, it includes links to the logo which is the homepage, homepage,
 Gallery, Tourist Attractions and Sign Up page.
