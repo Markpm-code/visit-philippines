@@ -13,3 +13,12 @@ Gallery, Tourist Attractions and Sign Up page.
    * This section will allow the user to navigate all pages easily without reverting back to the previous page via the 'back' button.
 
    ![header](assets/images/navbar.png)
+
+* ## The Background Image
+
+   * The background includes a photograph with paragraphs introducing the Philippines.
+   * On the left side of the photograph, there are three containers. The first from the top is a sales pitch to attract tourist looking for a holiday in the Philippines.
+   * The second container with a photograph nested on it with a label of 'gallery' are both linked to gallery.html page.
+   * The third container  with a photograph nested on it with a label of 'tourist attractions' are also both linked to tourist-attractions.html page.
+
+   ![main-image](assets/images/main-page.png)
