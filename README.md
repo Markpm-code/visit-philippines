@@ -10,4 +10,6 @@ Aside from white sand beaches, Philippines has a lot of attractions for tourist 
      * The navigation bar is full responsive featured in all four pages, it includes links to the logo which is the homepage, homepage,
 Gallery, Tourist Attractions and Sign Up page.
    * It has a background color of rgba(0, 136, 169, 1), when hovered the logo's font transform into black or #24252A and the rest of the links transform into white or #FFFFFF.
-   * This section will the useer to navigate all pages easily without reverting back to the previous page via the 'back' button.
+   * This section will allow the user to navigate all pages easily without reverting back to the previous page via the 'back' button.
+
+   ![header](assets/images/navbar.png)
