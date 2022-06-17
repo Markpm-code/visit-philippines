@@ -29,4 +29,11 @@ Gallery, Tourist Attractions and Sign Up page.
    * The Facebook and Youtube link opens to a new tab with a video content showcasing the stunning tourist attractions Philippines has to offer to the world.
 
    ![footer screenshot](assets/images/footer.png)
+
+* ## The Gallery
+
+   * On the top of the images, there is a link that will allow the user to also open the Sign-up.html page.
+   * In this section, it allows the user to see the preview of stunning images and amazing scenery of  what they can look forward to when visiting the Philippines.
+
+   ![gallery screenshot](assets/images/gallery%20screenshot.png)
    
