@@ -22,3 +22,11 @@ Gallery, Tourist Attractions and Sign Up page.
    * The third container  with a photograph nested on it with a label of 'tourist attractions' are also both linked to tourist-attractions.html page.
 
    ![main-image](assets/images/main-page.png)
+
+* ## The Footer
+
+   * This section includes links to the relevant social media sites for Visit Philippines except  the twitter.
+   * The Facebook and Youtube link opens to a new tab with a video content showcasing the stunning tourist attractions Philippines has to offer to the world.
+
+   ![footer screenshot](assets/images/footer.png)
+   
