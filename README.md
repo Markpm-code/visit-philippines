@@ -36,4 +36,11 @@ Gallery, Tourist Attractions and Sign Up page.
    * In this section, it allows the user to see the preview of stunning images and amazing scenery of  what they can look forward to when visiting the Philippines.
 
    ![gallery screenshot](assets/images/gallery%20screenshot.png)
+
+* ## Tourist Attractions Page
+
+   * This page allows the user to get information on the specific  name and location of the place and the details accompanied with a photograph above the paragraphs.
+   * This section will allow the user to help make a decision which part of the Philippines they wanted to visit.
+
+   ![tourist attractions page screenshot](assets/images/tourist-attractions%20page.png)
    
