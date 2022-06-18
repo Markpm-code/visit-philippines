@@ -43,4 +43,10 @@ Gallery, Tourist Attractions and Sign Up page.
    * This section will allow the user to help make a decision which part of the Philippines they wanted to visit.
 
    ![tourist attractions page screenshot](assets/images/tourist-attractions%20page.png)
-   
+
+* ## The Sign-up Page
+
+   * This page will allow the user to get signed up to get the best holiday offers and packages and newsletters offering the user for a limited time.
+   * On this page, the user will be asked to submit their full name and address.
+
+   ![sign-up page screenshot](assets/images/Sign-up%20page.png)
