@@ -59,7 +59,7 @@ Gallery, Tourist Attractions and Sign Up page.
 
 
 
- ### Validator Testing
+### Validator Testing
 
 
 
