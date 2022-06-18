@@ -58,6 +58,7 @@ Gallery, Tourist Attractions and Sign Up page.
 ## Testing
 
 <br/>
+
 ## Validator Testing
 
  * HTML
