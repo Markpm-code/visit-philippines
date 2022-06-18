@@ -54,3 +54,13 @@ Gallery, Tourist Attractions and Sign Up page.
 * ## About Us Page
 
    * With a deadline for submission missed, I am planning to add this page in the future to create a little history for the Visit Philippines website.
+
+## Testing
+
+
+## Validator Testing
+
+ * HTML
+   * No errors were returned when passing through the official ![WRC](https://validator.w3.org/)
+ * CSS
+   * No errors were found when passing through the official ![Jigsaw](https://jigsaw.w3.org/css-validator/)
