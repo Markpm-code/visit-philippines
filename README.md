@@ -14,7 +14,7 @@ Gallery, Tourist Attractions and Sign Up page.
 
    ![header](assets/images/navbar.png)
 
-* ## The Background Image
+* ## The Landing Image
 
    * The background includes a photograph with paragraphs introducing the Philippines.
    * On the left side of the photograph, there are three containers. The first from the top is a sales pitch to attract tourist looking for a holiday in the Philippines.
@@ -76,3 +76,22 @@ Gallery, Tourist Attractions and Sign Up page.
    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - 
+
+## Credits
+
+### Content
+
+  * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+  * The photos used on the home and sign up page are from This Open Source sites :
+    * [World Atlas](https://www.worldatlas.com/articles/top-10-tourist-attractions-in-the-philippines.html)
+    * [Fox News](https://static.foxnews.com/foxnews.com/content/uploads/2019/01/BoracaySandCastleiStock.jpg)
+
+  * The photos used on the landing image containers are from this foloowing sites :
+    * [PlanetWare](https://www.planetware.com/photos-large/PHI/philippines-albay-mayon-volcano.jpg)
+    * 
+
+  * The images used for the gallery page were taken from this following sites :
+    * 
