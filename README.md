@@ -94,4 +94,9 @@ The live link can be found here -
     * 
 
   * The images used for the gallery page were taken from this following sites :
-    * 
+    * [PlanetWare](https://www.planetware.com/photos-large/PHI/philippines-albay-mayon-volcano.jpg)
+    * [World Atlas](https://www.worldatlas.com/articles/top-10-tourist-attractions-in-the-philippines.html)
+
+### Footer Links
+  * [GP Production](https://youtu.be/D2r0DEGr1I4)
+  * [Joshua Brian Bonifacio](https://www.facebook.com/joshuabrianbonnifacio/videos/1955668431178694/)
