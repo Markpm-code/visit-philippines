@@ -61,6 +61,6 @@ Gallery, Tourist Attractions and Sign Up page.
 ## Validator Testing
 
  * HTML
-   * No errors were returned when passing through the official ![WRC](https://validator.w3.org/)
+   * No errors were returned when passing through the official [WRC](https://validator.w3.org/)
  * CSS
-   * No errors were found when passing through the official ![Jigsaw](https://jigsaw.w3.org/css-validator/)
+   * No errors were found when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/)
