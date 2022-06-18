@@ -50,3 +50,7 @@ Gallery, Tourist Attractions and Sign Up page.
    * On this page, the user will be asked to submit their full name and address.
 
    ![sign-up page screenshot](assets/images/Sign-up%20page.png)
+
+* ## About Us Page
+
+   * With a deadline for submission missed, I am planning to add this page in the future to create a little history for the Visit Philippines website.
