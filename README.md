@@ -57,9 +57,11 @@ Gallery, Tourist Attractions and Sign Up page.
 
 ## Testing
 
-<br/>
+
 
 ## Validator Testing
+
+<br/>
 
  * HTML
    * No errors were returned when passing through the official [WRC validator](https://validator.w3.org/)
