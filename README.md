@@ -107,7 +107,7 @@ The live link can be found here -
     * [VieTravel](https://media.vietravel.com/images/NewsPicture/boracay.jpg)
     * [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/Chocolate_Hills_overview.JPG)
 
-  * The images used for the tourist attraction are mostly the same from the gallery except this sie:
+  * The images used for the tourist attraction are mostly the same from the gallery except this site:
     * [ Adventures of Lilnicki](https://adventuresoflilnicki.com/wp-content/uploads/2020/04/Cadlao-Lagoon-El-Nido-Palawan-Philippines.jpg)
     
 
