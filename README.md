@@ -89,16 +89,23 @@ The live link can be found here -
     * [World Atlas](https://www.worldatlas.com/articles/top-10-tourist-attractions-in-the-philippines.html)
     * [Fox News](https://static.foxnews.com/foxnews.com/content/uploads/2019/01/BoracaySandCastleiStock.jpg)
 
-  * The photos used on the landing image containers are from this foloowing sites :
+  * The photos used on the landing image containers are from this following sites :
     * [PlanetWare](https://www.planetware.com/photos-large/PHI/philippines-albay-mayon-volcano.jpg)
-    * 
+    * [Black Tomato](https://images.blacktomato.com/2018/09/1500x1000-Empty-Beach-Phili-e1537524075315.jpg)
 
   * The images used for the gallery page were taken from this following sites :
     * [PlanetWare](https://www.planetware.com/photos-large/PHI/philippines-albay-mayon-volcano.jpg)
     * [World Atlas](https://www.worldatlas.com/articles/top-10-tourist-attractions-in-the-philippines.html)
     * [Fox News](https://static.foxnews.com/foxnews.com/content/uploads/2019/01/BoracaySandCastleiStock.jpg)
     * [PlanetWare](https://www.planetware.com/wpimages/2022/01/philippines-top-tourist-attractions-things-to-do-sugba-lagoon-siargao.jpg)
-    * [Hello Travel](https://www.hlimg.com/images/stories/738X538/27_1559474898-2265e.jpg)
+    * [Black Tomato](https://images.blacktomato.com/2018/09/1500x1000-Empty-Beach-Phili-e1537524075315.jpg)
+    * [Two Wanderingsoles](https://www.twowanderingsoles.com/wp-content/uploads/2021/07/img_60ee6fee1c7fa.jpg)
+    * [Viator](https://media.tacdn.com/media/attractions-splice-spp-674x446/07/6f/54/2e.jpg)
+    * [Flickr](https://live.staticflickr.com/4201/34848074081_cb91e699e5_b.jpg)
+    * [Shutterstock](https://images.takeshape.io/f276619a-5bdc-4e0e-8f60-a30aa55f8e9f/dev/0a8cac32-1291-4ca0-90c3-aa08faf778b1/shutterstock-terraces-op.jpg?auto=compress%2Cformat)
+    * [Wix](https://static.wixstatic.com/media/88e7b1_b96edc1cf7ec46e7be6e61fee7e5c57d~mv2.jpg/v1/fill/w_720,h_480,al_c,q_90/file.jpg)
+    * [VieTravel](https://media.vietravel.com/images/NewsPicture/boracay.jpg)
+    * [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/Chocolate_Hills_overview.JPG)
     
 
 ### Footer Links
