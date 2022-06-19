@@ -106,6 +106,9 @@ The live link can be found here -
     * [Wix](https://static.wixstatic.com/media/88e7b1_b96edc1cf7ec46e7be6e61fee7e5c57d~mv2.jpg/v1/fill/w_720,h_480,al_c,q_90/file.jpg)
     * [VieTravel](https://media.vietravel.com/images/NewsPicture/boracay.jpg)
     * [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/Chocolate_Hills_overview.JPG)
+
+  * The images used for the tourist attraction are mostly the same from the gallery except this sie:
+    * [ Adventures of Lilnicki](https://adventuresoflilnicki.com/wp-content/uploads/2020/04/Cadlao-Lagoon-El-Nido-Palawan-Philippines.jpg)
     
 
 ### Footer Links
