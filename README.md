@@ -59,6 +59,8 @@ Gallery, Tourist Attractions and Sign Up page.
 
 The Visit Philippines site was tested manually on Samsung A21s mobile phone and all features are responsive. But when tested on galaxy tab A7 lite the sign up form the design is a bit distorted but it was fine when tested in the dev tools on desktop device.
 
+When using the chrome developer tools, the Visit Philippines is responsive to most of the smaller devices.
+
 This is how Visit Philippines looks like in different devices.
 ![Different Devices](assets/images/diff%20devices.png)
 
@@ -116,3 +118,7 @@ The live link can be found here -
 ### Footer Links
   * [GP Production](https://youtu.be/D2r0DEGr1I4)
   * [Joshua Brian Bonifacio](https://www.facebook.com/joshuabrianbonnifacio/videos/1955668431178694/)
+
+### README
+
+ * The README file idea is taken from the template example of ![Code INstitute](https://codeinstitute.net/ie/)
