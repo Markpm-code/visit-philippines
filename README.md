@@ -74,7 +74,7 @@ This is how Visit Philippines looks like in different devices.
    * I can confirmed that the color and fonts are easy to read in mobile and desktop by running the hompage through lighthouse in devtools.
 
  * Mobile Acessability Score
-   ![mobile](assets/images/mobile.dev%20accesability.png)
+   !Mobile(assets/images/mobile.dev%20accesability.png)
 
  * Desktop Accesability Score
    ![Desktop](assets/images/desktop%20accesability.png)
