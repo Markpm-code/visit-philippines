@@ -57,11 +57,10 @@ Gallery, Tourist Attractions and Sign Up page.
 
 ## Testing
 
-
+This is how my site looks like in different devices.
+![Different Devices](assets/images/diff%20devices.png)
 
 ### Validator Testing
-
-
 
  * HTML
    * No errors were returned when passing through the official [WRC validator](https://validator.w3.org/)
