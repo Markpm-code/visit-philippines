@@ -152,7 +152,7 @@ footer {
     font-family: 'cursive', sans-serif;
 }
 
-/*gallery*/
+
 .gallery {
     background-color: aqua;
     border-top: 2px solid rgba(0, 136, 169, 1);
@@ -196,7 +196,7 @@ p {
     border-radius: 5px;
 }
 
-/*tourist attractions*/
+
 #attract {
     text-align: center;
     font-weight: 100;
@@ -235,7 +235,7 @@ p {
 
 }
 
-/*sign-up*/
+
 .img-sign-up {
     background: url("../images/boracay-sand-castle.jpg") no-repeat center center;
     background-size: cover;
