@@ -121,4 +121,4 @@ The live link can be found here -
 
 ### README
 
- * The README file idea is taken from the template example of ![Code INstitute](https://codeinstitute.net/ie/)
+ * The README file idea is taken from the template example of [Code INstitute](https://codeinstitute.net/ie/)
