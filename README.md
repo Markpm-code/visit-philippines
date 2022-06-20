@@ -57,7 +57,7 @@ Gallery, Tourist Attractions and Sign Up page.
 
 ## Testing
 
-This is how my site looks like in different devices.
+This is how Visit Philippines looks like in different devices.
 ![Different Devices](assets/images/diff%20devices.png)
 
 ### Validator Testing
