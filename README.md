@@ -77,7 +77,8 @@ This is how Visit Philippines looks like in different devices.
    ![Mobile](assets/images/mobile.dev%20accesability.png)
 
 
- * Desktop Accesability Score
+   * Desktop Accesability Score
+   
    ![Desktop](assets/images/desktop%20accesability.png)
 
 ## Deployment
