@@ -70,7 +70,11 @@ This is how Visit Philippines looks like in different devices.
    * No errors were returned when passing through the official [WRC validator](https://validator.w3.org/)
  * CSS
    * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
- * 
+ * Accesability
+   * I can confirmed that the color and fonts are easy to read in mobile and desktop by running the hompage through lighthouse in devtools.
+
+   ![mobile](assets/images/mobile.dev%20accesability.png)
+   ![Desktop](assets/images/desktop%20accesability.png)
 
 ## Deployment
  
