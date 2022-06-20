@@ -53,7 +53,7 @@ Gallery, Tourist Attractions and Sign Up page.
 
 * ## About Us Page
 
-   * With a deadline for submission missed, I am planning to add this page in the future to create a little history for the Visit Philippines website.
+   * With zero knowledge in coding and a missed in watching the video of the 'Command Line Interface' because I thought it was done but it was my 13 year old son that was watching it and it took me while to fully understand the concept of it until I find the 'Eureka' moment. I am planning to add this page in the future to create a little history for the Visit Philippines website.
 
 ## Testing
 
@@ -80,7 +80,8 @@ The live link can be found here -
 ## Credits
 
 ### Content
-
+  * The text introduction in the landing image in the home page is taken from this site :
+    * [Kids/National Geogrraphic](https://kids.nationalgeographic.com/geography/countries/article/philippines)
   * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
